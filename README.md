@@ -1,9 +1,5 @@
 # Emlak-Otomasyonu
 
-Proje detayları için -> https://blog.mustafaergec.com.tr/c-emlakci-otomasyonu-projesi-aciklama-ve-kodlari.html
-
-Projede Entity Framework kullanılmıştır.
-
 # Emlak Otomasyonu projesi genel olarak;
 
 Giriş Ekranı <br>

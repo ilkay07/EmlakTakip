@@ -1,0 +1,66 @@
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\bin\Debug\Emlak.exe.config
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\bin\Debug\Emlak.exe
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\bin\Debug\Emlak.pdb
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\bin\Debug\EntityFramework.dll
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\bin\Debug\EntityFramework.xml
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.AnaMenu.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.EvDuzenleme.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.EvEkleme.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.EvListelemeSorgulama.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.GirisEkrani.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.Kayit.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.MusteriEvSatis.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.SatilanKiralananEvler.resources
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.csproj.Up2Date
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.exe
+C:\Users\PC\Downloads\Emlak-Otomasyonu-master\Emlak-Otomasyonu-master\Emlak\obj\Debug\Emlak.pdb
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\Emlak.exe.config
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\Emlak.exe
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\Emlak.pdb
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.AnaMenu.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.EvDuzenleme.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.EvEkleme.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.EvListelemeSorgulama.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.GirisEkrani.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.Kayit.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.MusteriEvSatis.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.SatilanKiralananEvler.resources
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.csproj.Up2Date
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.exe
+C:\Users\DELL\Desktop\Yeni klasör (2)\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.pdb
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\Emlak.exe.config
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\Emlak.exe
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\Emlak.pdb
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.AnaMenu.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.EvDuzenleme.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.EvEkleme.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.EvListelemeSorgulama.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.GirisEkrani.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.Kayit.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.MusteriEvSatis.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.SatilanKiralananEvler.resources
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.csproj.Up2Date
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.exe
+C:\Users\DELL\Desktop\emlak_db\Emlak-Otomasyonu\Emlak-Otomasyonu\Emlak\obj\Debug\Emlak.pdb
